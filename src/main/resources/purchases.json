@@ -1,0 +1,9 @@
+{
+  "purchases": [
+    {
+      "transactionDateTime": "2020-02-02T00:00:00",
+      "customerId": "1",
+      "amount": 50
+    }
+  ]
+}
